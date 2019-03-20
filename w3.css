@@ -14,7 +14,7 @@ code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}hr{box-sizing:co
 button,input,select,textarea{font:inherit;margin:0}optgroup{font-weight:bold}
 button,input{overflow:visible}button,select{text-transform:none}
 button,html [type=button],[type=reset],[type=submit]{-webkit-appearance:button}
-button::-moz-focus-inner, [type=button]::-moz-focus-inner, [type=reset]::-moz-focus-inner, [type=submit]::-moz-focus-inner{border-style:none;padding:0}
+button::-moz-focus-inner, [type=button]::-moz-focusinner, [type=reset]::-moz-focus-inner, [type=submit]::-moz-focus-inner{border-style:none;padding:0}
 button:-moz-focusring, [type=button]:-moz-focusring, [type=reset]:-moz-focusring, [type=submit]:-moz-focusring{outline:1px dotted ButtonText}
 fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:.35em .625em .75em}
 legend{color:inherit;display:table;max-width:100%;padding:0;white-space:normal}textarea{overflow:auto}
@@ -26,7 +26,7 @@ legend{color:inherit;display:table;max-width:100%;padding:0;white-space:normal}t
 ::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}
 /* End extract */
 html { 
-  background: url(https://i.pinimg.com/originals/df/c3/09/dfc309dd3b5d8971c5425ea1f8a28f3d.jpg) no-repeat center center fixed; 
+  background: url(http://sfwallpaper.com/images/red-black-abstract-wallpaper-4.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
